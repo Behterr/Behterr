@@ -1,7 +1,7 @@
 Hi 👋 My name is Yaroslav
 =========================
 
-* 🌍  I'm based in St. Petersberg
+* 🌍  I'm based in Moscow
 * 🧠  I'm learning Python
 
 ### Skills
